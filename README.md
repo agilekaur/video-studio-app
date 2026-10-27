@@ -9,7 +9,7 @@ It is free. It runs on your Mac, and your footage stays on your Mac.
 
 **[Download Video Studio for Mac (Apple Silicon)](https://github.com/agilekaur/video-studio-app/releases/latest/download/Video-Studio-arm64.dmg)**
 
-About 420 MB. You need:
+About 470 MB. You need:
 
 * A Mac with Apple Silicon (M1 or newer). Intel Macs are not supported yet.
 * macOS 13 or newer
